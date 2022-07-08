@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Akash Kumar Verma
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Frontend Development using ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Currently learning Frontend Development using ReactJS
 
 <!---
 akverma2496/akverma2496 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
