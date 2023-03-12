@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Akash.
-- 👀 Having wide variety of interests including Health, Science, Tech, Engineering, Food, Finance, Music.
 - 🌱 Currently learning Frontend Development using ReactJS and will take it upto Full Stack Development 🚀.
 
 <!---
