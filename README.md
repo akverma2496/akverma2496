@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash.
-- 🌱 Currently learning Frontend Development using ReactJS and will take it upto Full Stack Development 🚀.
+- 🌱 Exploring Tech 🚀.
 
 <!---
 akverma2496/akverma2496 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
